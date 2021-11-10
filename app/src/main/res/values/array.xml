@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Classrooms">
+        <item>Charak</item>
+        <item>Sushrut</item>
+        <item>Bharadwaj</item>
+        <item>Chaturanga</item>
+        <item>Bhaskaracharya</item>
+        <item>Kanad</item>
+        <item>Vishnugupta</item>
+        <item>Varahimihir</item>
+        <item>Browsing Centre</item>
+        <item>Aryabhatt</item>
+        <item>Brahmagupta</item>
+        <item>Survey Lab/Kapil</item>
+        <item>Mahavira</item>
+        <item>Panini</item>
+        <item>Safety Gallery/Nagarjuna</item>
+        <item>Vishwakarma</item>
+    </string-array>
+</resources>
